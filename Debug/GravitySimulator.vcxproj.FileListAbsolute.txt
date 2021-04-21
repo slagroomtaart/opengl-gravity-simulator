@@ -1,2 +1,4 @@
 E:\Projects\OpenGL\GravitySimulator\Debug\GravitySimulator.exe
 E:\Projects\OpenGL\GravitySimulator\Debug\GravitySimulator.pdb
+C:\Dev\namepointer\opengl-gravity-simulator\Debug\GravitySimulator.exe
+C:\Dev\namepointer\opengl-gravity-simulator\Debug\GravitySimulator.pdb

@@ -1,0 +1,127 @@
+﻿  glm.cpp
+  button.cpp
+  color.cpp
+  checkbox.cpp
+  label.cpp
+  rectangle.cpp
+  container.cpp
+C:\Dev\namepointer\opengl-gravity-simulator\src\ui\container.cpp(21,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Dev\namepointer\opengl-gravity-simulator\src\ui\container.cpp(43,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Dev\namepointer\opengl-gravity-simulator\src\ui\container.cpp(59,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  component.cpp
+  panel.cpp
+C:\Dev\namepointer\opengl-gravity-simulator\src\ui\panel.cpp(64,121): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  font_renderer.cpp
+C:\Dev\namepointer\opengl-gravity-simulator\src\ui\font_renderer.cpp(62,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  text_field.cpp
+C:\Dev\namepointer\opengl-gravity-simulator\src\ui\text_field.cpp(68,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ui_manager.cpp
+  mass_body.cpp
+  sphere.cpp
+C:\Dev\namepointer\opengl-gravity-simulator\src\rendering\baseModels\sphere.cpp(24,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Dev\namepointer\opengl-gravity-simulator\src\rendering\baseModels\sphere.cpp(57,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  cube.cpp
+  star_sphere.cpp
+C:\Dev\namepointer\opengl-gravity-simulator\src\rendering\baseModels\star_sphere.cpp(26,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Dev\namepointer\opengl-gravity-simulator\src\rendering\baseModels\star_sphere.cpp(59,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Dev\namepointer\opengl-gravity-simulator\src\rendering\baseModels\star_sphere.cpp(69,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Dev\namepointer\opengl-gravity-simulator\src\rendering\baseModels\star_sphere.cpp(70,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  renderModel.cpp
+  scene_loader.cpp
+C:\Dev\namepointer\opengl-gravity-simulator\src\universe\scene_loader.cpp(29,48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Dev\namepointer\opengl-gravity-simulator\src\universe\scene_loader.cpp(56,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Dev\namepointer\opengl-gravity-simulator\src\universe\scene_loader.cpp(68,22): warning C4244: 'initializing': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Dev\namepointer\opengl-gravity-simulator\src\universe\scene_loader.cpp(69,22): warning C4244: 'initializing': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Dev\namepointer\opengl-gravity-simulator\src\universe\scene_loader.cpp(70,22): warning C4244: 'initializing': conversion from 'float' to 'unsigned char', possible loss of data
+  universe.cpp
+C:\Dev\namepointer\opengl-gravity-simulator\src\universe\universe.cpp(7,30): warning C4305: '=': truncation from 'double' to 'float'
+C:\Dev\namepointer\opengl-gravity-simulator\src\universe\universe.cpp(128,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  Compiling...
+  renderer.cpp
+C:\Dev\namepointer\opengl-gravity-simulator\src\rendering\renderer.cpp(137,69): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Dev\namepointer\opengl-gravity-simulator\src\rendering\renderer.cpp(516,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Dev\namepointer\opengl-gravity-simulator\src\rendering\renderer.cpp(516,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Dev\namepointer\opengl-gravity-simulator\src\rendering\renderer.cpp(524,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Dev\namepointer\opengl-gravity-simulator\src\rendering\renderer.cpp(524,13): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Dev\namepointer\opengl-gravity-simulator\src\rendering\renderer.cpp(532,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Dev\namepointer\opengl-gravity-simulator\src\rendering\renderer.cpp(532,13): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Dev\namepointer\opengl-gravity-simulator\src\rendering\renderer.cpp(540,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Dev\namepointer\opengl-gravity-simulator\src\rendering\renderer.cpp(540,13): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Dev\namepointer\opengl-gravity-simulator\src\rendering\renderer.cpp(716,68): warning C4267: 'argument': conversion from 'size_t' to 'GLint', possible loss of data
+C:\Dev\namepointer\opengl-gravity-simulator\src\rendering\renderer.cpp(810,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Dev\namepointer\opengl-gravity-simulator\src\rendering\renderer.cpp(817,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Dev\namepointer\opengl-gravity-simulator\src\rendering\renderer.cpp(828,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Dev\namepointer\opengl-gravity-simulator\src\rendering\renderer.cpp(828,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Dev\namepointer\opengl-gravity-simulator\src\rendering\renderer.cpp(833,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Dev\namepointer\opengl-gravity-simulator\src\rendering\renderer.cpp(833,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Dev\namepointer\opengl-gravity-simulator\src\rendering\renderer.cpp(895,173): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Dev\namepointer\opengl-gravity-simulator\src\rendering\renderer.cpp(895,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Dev\namepointer\opengl-gravity-simulator\src\rendering\renderer.cpp(895,16): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Dev\namepointer\opengl-gravity-simulator\src\rendering\renderer.cpp(928,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+button.obj : error LNK2001: unresolved external symbol __imp___glewVertexAttrib3f
+font_renderer.obj : error LNK2001: unresolved external symbol __imp___glewVertexAttrib2f
+font_renderer.obj : error LNK2001: unresolved external symbol __imp___glewUniform1i
+font_renderer.obj : error LNK2001: unresolved external symbol __imp___glewVertexAttrib3d
+text_field.obj : error LNK2001: unresolved external symbol glfwGetClipboardString
+text_field.obj : error LNK2001: unresolved external symbol glfwGetKey
+renderModel.obj : error LNK2001: unresolved external symbol __imp___glewBindVertexArray
+renderModel.obj : error LNK2001: unresolved external symbol __imp___glewBindBuffer
+renderModel.obj : error LNK2001: unresolved external symbol __imp___glewDeleteVertexArrays
+renderModel.obj : error LNK2001: unresolved external symbol __imp___glewBufferData
+renderModel.obj : error LNK2001: unresolved external symbol __imp___glewGenVertexArrays
+renderModel.obj : error LNK2001: unresolved external symbol __imp___glewGenBuffers
+renderModel.obj : error LNK2001: unresolved external symbol __imp___glewDeleteBuffers
+main.obj : error LNK2001: unresolved external symbol glfwWindowShouldClose
+renderer.obj : error LNK2001: unresolved external symbol glfwSwapBuffers
+renderer.obj : error LNK2001: unresolved external symbol __imp___glewEnableVertexAttribArray
+renderer.obj : error LNK2001: unresolved external symbol __imp___glewUseProgram
+renderer.obj : error LNK2001: unresolved external symbol glfwSetFramebufferSizeCallback
+renderer.obj : error LNK2001: unresolved external symbol __imp___glewVertexAttribPointer
+renderer.obj : error LNK2001: unresolved external symbol __imp___glewGetShaderiv
+renderer.obj : error LNK2001: unresolved external symbol __imp___glewCompileShader
+renderer.obj : error LNK2001: unresolved external symbol __imp___glewCreateShader
+renderer.obj : error LNK2001: unresolved external symbol glfwGetTime
+renderer.obj : error LNK2001: unresolved external symbol __imp___glewCreateProgram
+renderer.obj : error LNK2001: unresolved external symbol __imp___glewGetShaderInfoLog
+renderer.obj : error LNK2001: unresolved external symbol __imp___glewUniform2f
+renderer.obj : error LNK2001: unresolved external symbol __imp___glewGetProgramiv
+renderer.obj : error LNK2001: unresolved external symbol glfwGetMouseButton
+renderer.obj : error LNK2001: unresolved external symbol glfwTerminate
+renderer.obj : error LNK2001: unresolved external symbol __imp___glewDrawBuffers
+renderer.obj : error LNK2001: unresolved external symbol glfwGetWindowSize
+renderer.obj : error LNK2001: unresolved external symbol glfwPollEvents
+renderer.obj : error LNK2001: unresolved external symbol glfwInit
+renderer.obj : error LNK2001: unresolved external symbol glfwSetWindowAspectRatio
+renderer.obj : error LNK2001: unresolved external symbol glfwSetKeyCallback
+renderer.obj : error LNK2001: unresolved external symbol glfwSetScrollCallback
+renderer.obj : error LNK2001: unresolved external symbol __imp___glewUniform1f
+renderer.obj : error LNK2001: unresolved external symbol glfwCreateWindow
+renderer.obj : error LNK2001: unresolved external symbol glfwWindowHint
+renderer.obj : error LNK2001: unresolved external symbol __imp___glewGetUniformLocation
+renderer.obj : error LNK2001: unresolved external symbol glfwMakeContextCurrent
+renderer.obj : error LNK2001: unresolved external symbol __imp___glewAttachShader
+renderer.obj : error LNK2001: unresolved external symbol __imp___glewActiveTexture
+renderer.obj : error LNK2001: unresolved external symbol __imp___glewShaderSource
+renderer.obj : error LNK2001: unresolved external symbol __imp___glewFramebufferTexture2D
+renderer.obj : error LNK2001: unresolved external symbol __imp___glewRenderbufferStorage
+renderer.obj : error LNK2001: unresolved external symbol __imp___glewCheckFramebufferStatus
+renderer.obj : error LNK2001: unresolved external symbol __imp___glewDeleteFramebuffers
+renderer.obj : error LNK2001: unresolved external symbol __imp___glewFramebufferRenderbuffer
+renderer.obj : error LNK2001: unresolved external symbol __imp___glewGenFramebuffers
+renderer.obj : error LNK2001: unresolved external symbol __imp___glewDisableVertexAttribArray
+renderer.obj : error LNK2001: unresolved external symbol __imp___glewBindRenderbuffer
+renderer.obj : error LNK2001: unresolved external symbol __imp___glewUniformMatrix4fv
+renderer.obj : error LNK2001: unresolved external symbol __imp___glewBindFramebuffer
+renderer.obj : error LNK2001: unresolved external symbol __imp___glewDetachShader
+renderer.obj : error LNK2001: unresolved external symbol __imp___glewGenRenderbuffers
+renderer.obj : error LNK2001: unresolved external symbol __imp___glewGetProgramInfoLog
+renderer.obj : error LNK2001: unresolved external symbol __imp___glewPrimitiveRestartNV
+renderer.obj : error LNK2001: unresolved external symbol glfwGetCursorPos
+renderer.obj : error LNK2001: unresolved external symbol __imp___glewUniform3f
+renderer.obj : error LNK2001: unresolved external symbol glfwSetWindowSizeCallback
+renderer.obj : error LNK2001: unresolved external symbol __imp___glewDeleteShader
+renderer.obj : error LNK2001: unresolved external symbol __imp___glewLinkProgram
+renderer.obj : error LNK2001: unresolved external symbol glfwSetCharCallback
+renderer.obj : error LNK2001: unresolved external symbol __imp_glewInit
+C:\Dev\namepointer\opengl-gravity-simulator\x64\Release\GravitySimulator.exe : fatal error LNK1120: 65 unresolved externals
